@@ -5,6 +5,7 @@
 ## Description
 
 On the landing page of Bankis there is used advanced DOM.
+It is a project introduced by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a>.
 
 Technologies:
 
